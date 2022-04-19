@@ -5,14 +5,14 @@
 <pref name="Code Editor Strings Color" color="6DC60D00" />
 <pref name="Code Editor Numbers Color" color="FF80FF00" />
 <pref name="Code Editor Floating Point Numbers Color" color="FF00FF00" />
-<pref name="Code Editor Source Code Color" color="DBDBDB00" />
+<pref name="Code Editor Source Code Color" color="C7C7C700" />
 <pref name="Code Editor Comments Color" color="0080FF00" />
 <pref name="Code Editor Autocomplete Color" color="000000C0" />
 <pref name="Code Editor Background" color="00162D00" />
 <pref name="Code Editor Cursor Color" color="FFFFFF00" />
 <pref name="Matched Indent Brace Color" color="FFFFFF00" />
 <pref name="Unmatched Indent Brace Color" color="Default" />
-<pref name="Debugger Highlight Color" color="Default" />
+<pref name="Debugger Highlight Color" color="2C2C2C00" />
 <pref name="Code Editor URL Color" color="00E60000" />
 <pref name="Code Editor Source Matching Color" color="C0C0C000" />
 <pref name="Code Font" font="Fira Code" />
